@@ -94,7 +94,7 @@
 
 				<div id="search-bar">
 					<div id="search-left">
-					<h3>Welcome to your Open Insurance Services.</h3>
+					<h3>Welcome to your Open Insurance Services - delivered by the Agiity Platform.</h3>
 					</div>
 					<div id="search-right">
 					<form class="form" method="post" action="">
@@ -119,7 +119,7 @@
             <li class="widget color-green" id="intro">
             
                 <div class="widget-head">
-                    <h3>Quick Quote</h3>
+                    <h3>Quick Quote - delivered by the Agiity Platform.</h3>
                 </div>
                 <div class="widget-content">
                     <p>
